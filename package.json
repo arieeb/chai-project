@@ -1,0 +1,25 @@
+{
+  "name": "chai-backend",
+  "version": "1.0.0",
+  "description": "a backend by chai and code",
+  "keywords": [
+    "javascript",
+    "backend",
+    "iftar"
+  ],
+  "homepage": "https://github.com/arieeb/chai-project#readme",
+  "bugs": {
+    "url": "https://github.com/arieeb/chai-project/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arieeb/chai-project.git"
+  },
+  "license": "ISC",
+  "author": "arieeb",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
